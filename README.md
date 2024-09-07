@@ -12,4 +12,4 @@ RPI Zero W
 2) Will read out my plant data [theory]
 
 ### Water
-1) Will pour me a glass of water
+1) Will pour me a glass of water [planning]
